@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos 👋
 
 - 🌱 Actualmente estoy aprendiendo Python
 - 👯 Estoy en busca de mi primer empleo como programador y colaborar en proyectos.
